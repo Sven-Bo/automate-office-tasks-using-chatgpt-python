@@ -5,7 +5,7 @@ Next, we'll look at how to use ChatGPT and Python to create interactive charts b
 As a bonus, we'll also take a look at how to use ChatGPT to write emails for you so you don't have to.
 Overall, this video will give you a good idea of how you can use ChatGPT and Python to automate some of those repetitive tasks that take up so much of your time.
 
-## Live website will all the prompts
+## Live website with all the ChatGPT prompts
 https://automate-office-chatgpt.streamlit.app/
 
 ## Video Tutorial
