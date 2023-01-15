@@ -9,8 +9,7 @@ Overall, this video will give you a good idea of how you can use ChatGPT and Pyt
 https://automate-office-chatgpt.streamlit.app/
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/mCk4Rabkmjc/0.jpg)](https://youtu.be/mCk4Rabkmjc)
 
 
 ## About Me
